@@ -78,7 +78,7 @@ I bridge the gap between **bare-metal logic** and **polished user interfaces**, 
 | :--- | :--- | :--- |
 | **Personal Portfolio** | A showcase of my engineering philosophy and works, built with modern web standards and high-performance optimizations. | ![React](https://img.shields.io/badge/-React-black?style=flat-square) ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square) |
 | **Healthcare Data Pipeline** | *Consultancy Work:* Designed a HIPAA-compliant backend for secure patient data processing and real-time analytics. | ![Python](https://img.shields.io/badge/-Python-black?style=flat-square) ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square) |
-| **Logistics Engine** | *Consultancy Work:* High-throughput logistics system for international e-commerce routing and inventory management. | ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square) ![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square) |
+| **Logistics Engine** | *Consultancy Work:* High-throughput logistics system for international e-commerce routing and inventory management. | ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square) ![Python](https://img.shields.io/badge/-Python-black?style=flat-square) |
 
 ---
 
