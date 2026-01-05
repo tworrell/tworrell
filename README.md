@@ -6,7 +6,7 @@
     <a href="https://github.com/tworrell">
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
     </a>
-    <a href="https://www.taraworrell.com/">
+    <a href="https://www.taraworrell.com">
       <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-2ea44f?style=for-the-badge&logo=vercel&logoColor=white" />
     </a>
     <a href="https://www.linkedin.com/in/tara-worrell-80ab21144/">
